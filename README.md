@@ -2,10 +2,6 @@
 
 This repository showcases a collection of lab assignments and projects completed for the **Spoken and Written Language Processing** course within the **Bachelor's Degree in Data Science and Engineering** at **Universitat Politècnica de Catalunya (UPC)**. These projects offer hands-on experience in fundamental and advanced topics across Machine Learning, Natural Language Processing, Speech Recognition, and Deep Learning.
 
-## 📌 Project Context
-
-The labs in this repository are core components of the Spoken and Written Language Processing course, designed to provide practical exposure to the theoretical concepts of processing spoken and written language. Each assignment tackles a specific challenge, encouraging the application of various algorithms, models, and analytical techniques.
-
 ## 🧪 Labs Overview
 
 ### 1. 📝 Word Vectors: Training and Analysis (Lab 1)
